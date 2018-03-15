@@ -13,5 +13,5 @@ The website is created using HTML and CSS.
 ## Support and contact details
 If you run into any issue please open an issue on github and we will get back to you.
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) 2018 **{David Ezekiel , Lawrence Karanja}**
+*MIT*
+Copyright (c) 2018 **David Ezekiel , Lawrence Karanja**
